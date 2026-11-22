@@ -13,5 +13,4 @@
 ![](https://streak-stats.demolab.com/?user=Islemnasrii&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Islemnasrii&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
